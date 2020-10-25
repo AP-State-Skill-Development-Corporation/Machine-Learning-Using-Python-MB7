@@ -20,7 +20,7 @@ Everyone should compulsory follow the below instruction in order to get the atte
 2. Don't give spaces in roll number or shorcut of your roll number
 3. Don't give spaces between rollnumber and name (only - single minus or hyphen character)
 4. Make sure roll number should match with the registered roll number
-5. Minimum **`120/150`** minutes should attend in **`150/180 minutes`** session with same login format
+5. Required attendance minimum **120 minutes out of 150 minutes** session
 
 <!-----
 ******************************
