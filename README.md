@@ -8,6 +8,8 @@ This repository consists of all the files, resources, and recorded session links
 #### Gotomeeting Link → [[Click Here to Join]](meetingLink) → Meeting Id → 
 --->
 
+#### ![prerequisite](Prerequisite.png)
+
 #### APSSDC-ML-Datasets → [[Click Here]](https://github.com/AP-State-Skill-Development-Corporation/Datasets)
 
 #### Few resources avaliable @ [[resources.md]](resources.md) file don't forget to use them
@@ -43,3 +45,18 @@ Discussed Concepts:
 [[DayNo_Recorded_Video_Link]]()
 *************************
 --->
+
+### Day1 Introduction to Machine Learning (26/Oct/2020)
+
+Discussed Concepts:
+1. What is machine Learning
+2. Types of ML
+3. Applications
+4. Algorithms  
+
+* [ML pdf ](Day-1/MachineLearningwithPython.pdf)
+* [Anaconda installation pdf](Day-1/AnacondaInstallation.pdf)
+* [Notebook](Day-1/01_Day1_26Oct2020.ipynb)
+* [Notes.txt](Day-1/Notes.txt)
+* [salary.csv](Day-1/salary.csv)
+* [Recorded Video pending]()

@@ -1,0 +1,186 @@
+
+
+Good morning everyone
+
+Today session starts at 08:10 AM
+
+Instructions for attendance
+	Everyone should compulsory follow the below instruction in order to get the attendance --> Certificate
+
+1. Gotomeeting login name format rollnumber-name-college
+2. Don't give spaces in roll number or shorcut of your roll number
+3. Don't give spaces between rollnumber and name (only - single minus or hyphen character)
+4. Make sure roll number should match with the registered roll number
+5. Required attendance minimum 120 minutes out of 150 minutes session
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+https://github.com/AP-State-Skill-Development-Corporation/Machine-Learning-Using-Python-MB7
+
+
+
+
+
+
+
+
+
+Build a ML model which can predict salary of employee with his experience ?
+
+input ? Experience
+
+output? salary 
+
+
+Terminology in ML
+
+input/features
+
+output/ target
+
+
+
+salary/taregt possible values
+
+employee has 1 year experience how much salary?
+
+1 year   10000, 20000,25000,21000 50000,70000
+
+
+
+
+
+In a box there there are 50 fruits avaliable (apple , mango ,orange)
+
+
+build model to predict the which fruit it is with his color?
+
+feature/input   color
+
+
+target/ouput /  label    fruit name is output
+
+possible target fruit values?
+	apple
+	or mango
+	or orange
+
+------------------------------------
+another examples for classifications
+
+find the student  pass/fail
+
+
+person has cancer or not
+	yes/no
+	1/0
+	true/false
+
+
+
+
+1. we given some examples/past data to the machine
+2. we test the model by giving different inputs
+
+
+
+
+
+In supervised learning
+	for training we give the features and target
+In unsupervised learning
+	there is no target/label
+
+
+
+
+
+clusting the mobiles defected and non defected
+
+
+financing/banking
+	cluster their clients/ according to the income/spending/loan repaing
+	
+
+
+
+
+
+
+
+we want to build ML model which can predict salary of employee with his experience in Google company?
+
+
+1. Get Data
+	past data /prevoius employees experience and salary
+	
+	a. Google search/web search
+	b.  Official website
+	c. do the survey/lottory
+	d. create dummy values/formula based values
+
+2. Pre-Processing
+	1. to identify missing values and handling it
+	2. is there any invalid values
+		we have patient data for covid detection
+		height,weight,temperature(degree)
+			      1000
+3. Train Model
+	a.  identify the algorithm related to problem
+	b. we training model with training data
+		3 examples for training and 1 example for testing
+
+
+
+
+
+we tested the student with 10 questions in that student given 6 question correct
+no what is performance/accuracy?
+
+
+(Nocorrect Answers / total questions)*100
+
+(6/10)*100
+60% accuracy
+
+
+
+
+
+
+
+To learn ML required softwares
+	Anaconda software
+
+
+
+
+
+take 5 min time to download and install software
+
+
+
+
+
+
+
+
+
+
