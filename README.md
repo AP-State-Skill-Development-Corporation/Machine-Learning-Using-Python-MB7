@@ -62,3 +62,15 @@ Discussed Concepts:
 * [Notes.txt](Day-1/Notes.txt)
 * [salary.csv](Day-1/salary.csv)
 * [Recorded Video](https://transcripts.gotomeeting.com/#/s/573f1e450dda4fb0e611545ee4b158e6afe2bf0073d790a71a2b4d00689857c6)
+
+### Day2 Prediction of RIL revenue by Linear Regression (27/oct/2020)
+
+Discussed Concepts
+1. Linear Regression for
+* Prediction of Salary of employee with his experience
+* Prediction Reliance Industry revenue with Jio subscribers
+
+* [Notebook](Day-2/02_Day2_27Oct2020.ipynb)
+* [Salary_Data.csv](https://raw.githubusercontent.com/AP-State-Skill-Development-Corporation/Datasets/master/Regression/Salary_Data.csv)
+* [Reliance.csv](https://raw.githubusercontent.com/AP-State-Skill-Development-Corporation/Machine-Learning-Using-Python-MB6/master/Day-2/reliance.csv)
+* [Recorded Video pending]()
