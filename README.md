@@ -73,4 +73,4 @@ Discussed Concepts
 * [Notebook](Day-2/02_Day2_27Oct2020.ipynb)
 * [Salary_Data.csv](https://raw.githubusercontent.com/AP-State-Skill-Development-Corporation/Datasets/master/Regression/Salary_Data.csv)
 * [Reliance.csv](https://raw.githubusercontent.com/AP-State-Skill-Development-Corporation/Machine-Learning-Using-Python-MB6/master/Day-2/reliance.csv)
-* [Recorded Video pending]()
+* [Recorded Video](https://transcripts.gotomeeting.com/#/s/5b0a222e9cdc09d1d7e4a4f2b9b8bb21f0d35922cb173582419d060768ee23d8)
