@@ -24,6 +24,8 @@ Everyone should compulsory follow the below instruction in order to get the atte
 4. Make sure roll number should match with the registered roll number
 5. Required attendance minimum **120 minutes out of 150 minutes** session
 
+#### Attendance sheet reference purpose only(make sure to follow above instructions to get present) → [[clickHere]](https://docs.google.com/spreadsheets/d/1wyb_w_JPJlx1djBOVy1iq_G2f9hSXoyef8PXvF6L-RI/edit?usp=sharing)
+
 <!-----
 ******************************
 Reference purpose follow this below things
