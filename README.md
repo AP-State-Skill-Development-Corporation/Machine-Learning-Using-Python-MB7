@@ -74,3 +74,16 @@ Discussed Concepts
 * [Salary_Data.csv](https://raw.githubusercontent.com/AP-State-Skill-Development-Corporation/Datasets/master/Regression/Salary_Data.csv)
 * [Reliance.csv](https://raw.githubusercontent.com/AP-State-Skill-Development-Corporation/Machine-Learning-Using-Python-MB6/master/Day-2/reliance.csv)
 * [Recorded Video](https://transcripts.gotomeeting.com/#/s/5b0a222e9cdc09d1d7e4a4f2b9b8bb21f0d35922cb173582419d060768ee23d8)
+
+
+### Day3 Multi Linear Regression and Polynomial Features (28/Oct/2020)
+
+Discussed Concepts
+1. Multi Linear Regression for house price prediction of boston dataset
+2. Applying Polynomial Features for Salary prediction dataset
+
+* [Notebook](Day-3/03_Day3_28Oct2020.ipynb)
+* [Recorded  video pending]()
+* [image1](https://github.com/AP-State-Skill-Development-Corporation/Machine-Learning-Using-Python-MB6/blob/master/Day-3/6_1_line.png)
+* [image2](https://github.com/AP-State-Skill-Development-Corporation/Machine-Learning-Using-Python-MB6/blob/master/Day-3/6_2_linePoly.png)
+* [image3](https://github.com/AP-State-Skill-Development-Corporation/Machine-Learning-Using-Python-MB6/blob/master/Day-3/mlconcepts_image5.png)
