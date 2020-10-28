@@ -83,7 +83,7 @@ Discussed Concepts
 2. Applying Polynomial Features for Salary prediction dataset
 
 * [Notebook](Day-3/03_Day3_28Oct2020.ipynb)
-* [Recorded  video pending]()
+* [Recorded  video](https://transcripts.gotomeeting.com/#/s/00b4b73e99aa76883949f99ee3aef79747578c0677126c7ef6df368ce4b2eada)
 * [image1](https://github.com/AP-State-Skill-Development-Corporation/Machine-Learning-Using-Python-MB6/blob/master/Day-3/6_1_line.png)
 * [image2](https://github.com/AP-State-Skill-Development-Corporation/Machine-Learning-Using-Python-MB6/blob/master/Day-3/6_2_linePoly.png)
 * [image3](https://github.com/AP-State-Skill-Development-Corporation/Machine-Learning-Using-Python-MB6/blob/master/Day-3/mlconcepts_image5.png)
