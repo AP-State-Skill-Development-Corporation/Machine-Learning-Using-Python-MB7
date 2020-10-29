@@ -87,3 +87,13 @@ Discussed Concepts
 * [image1](https://github.com/AP-State-Skill-Development-Corporation/Machine-Learning-Using-Python-MB6/blob/master/Day-3/6_1_line.png)
 * [image2](https://github.com/AP-State-Skill-Development-Corporation/Machine-Learning-Using-Python-MB6/blob/master/Day-3/6_2_linePoly.png)
 * [image3](https://github.com/AP-State-Skill-Development-Corporation/Machine-Learning-Using-Python-MB6/blob/master/Day-3/mlconcepts_image5.png)
+
+
+### Day4 KNN algorithm (29/Oct/2020)
+
+Discussed Concepts
+1. K-Nearest Neighbour Algorithm
+
+* [Notebook](Day-4/04_Day4_29Oct2020.ipynb)
+* [fruits.csv](https://raw.githubusercontent.com/AP-State-Skill-Development-Corporation/Datasets/master/Classification/fruit_data_with_colours.csv)
+* [Recorded Video pending]()
