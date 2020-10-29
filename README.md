@@ -96,4 +96,4 @@ Discussed Concepts
 
 * [Notebook](Day-4/04_Day4_29Oct2020.ipynb)
 * [fruits.csv](https://raw.githubusercontent.com/AP-State-Skill-Development-Corporation/Datasets/master/Classification/fruit_data_with_colours.csv)
-* [Recorded Video pending]()
+* [Recorded Video](https://transcripts.gotomeeting.com/#/s/75f805f97cc792a16e53852486eca3d682dc8bbb8ad7a1cacb9c0330b1136052)
