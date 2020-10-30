@@ -97,3 +97,12 @@ Discussed Concepts
 * [Notebook](Day-4/04_Day4_29Oct2020.ipynb)
 * [fruits.csv](https://raw.githubusercontent.com/AP-State-Skill-Development-Corporation/Datasets/master/Classification/fruit_data_with_colours.csv)
 * [Recorded Video](https://transcripts.gotomeeting.com/#/s/75f805f97cc792a16e53852486eca3d682dc8bbb8ad7a1cacb9c0330b1136052)
+
+### Day5 Classification Algorithms (30/Oct/2020)
+
+Discussed Concepts
+1. Logistic Regression Algorithm
+2. Support Vector Machine
+
+* [Notebook](Day-5/05_Day5_30Oct2020.ipynb)
+* [Recorded Video pending]()
