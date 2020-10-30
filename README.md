@@ -105,4 +105,5 @@ Discussed Concepts
 2. Support Vector Machine
 
 * [Notebook](Day-5/05_Day5_30Oct2020.ipynb)
-* [Recorded Video pending]()
+* [Heart_disease.csv](https://raw.githubusercontent.com/AP-State-Skill-Development-Corporation/Datasets/master/Classification/Heart_disease.csv)
+* [Recorded Video](https://transcripts.gotomeeting.com/#/s/8116f3a94325277172c8ad3cb371b41c2ff49f6d94bad04f81f57148c8e83393)
