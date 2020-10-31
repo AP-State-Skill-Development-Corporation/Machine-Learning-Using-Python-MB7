@@ -115,4 +115,4 @@ Discussed Concepts
 1. Decision Tree
 
 * [Notebook](Day-6/06_Day6_31Oct2020.ipynb)
-* [Recorded Video pending]()
+* [Recorded Video](https://transcripts.gotomeeting.com/#/s/b3bc6bbce5c501a195ff6fc2d6c535ef3edbc8dacaef98dd2eb02e78a3049e29)
