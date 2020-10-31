@@ -114,5 +114,5 @@ Discussed Concepts
 Discussed Concepts
 1. Decision Tree
 
-* [Notebook](Day-6/06_Day631Oct2020.ipynb)
+* [Notebook](Day-6/06_Day6_31Oct2020.ipynb)
 * [Recorded Video pending]()
