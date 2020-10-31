@@ -107,3 +107,12 @@ Discussed Concepts
 * [Notebook](Day-5/05_Day5_30Oct2020.ipynb)
 * [Heart_disease.csv](https://raw.githubusercontent.com/AP-State-Skill-Development-Corporation/Datasets/master/Classification/Heart_disease.csv)
 * [Recorded Video](https://transcripts.gotomeeting.com/#/s/8116f3a94325277172c8ad3cb371b41c2ff49f6d94bad04f81f57148c8e83393)
+
+
+### Day6 Decision Tree Algorithms (31/Oct/2020)
+
+Discussed Concepts
+1. Decision Tree
+
+* [Notebook](Day-6/06_Day631Oct2020.ipynb)
+* [Recorded Video pending]()
