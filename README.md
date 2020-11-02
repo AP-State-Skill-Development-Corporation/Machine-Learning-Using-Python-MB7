@@ -8,6 +8,7 @@ This repository consists of all the files, resources, and recorded session links
 #### Gotomeeting Link → [[Click Here to Join]](meetingLink) → Meeting Id → 
 --->
 
+
 #### ![prerequisite](Prerequisite.png)
 
 #### APSSDC-ML-Datasets → [[Click Here]](https://github.com/AP-State-Skill-Development-Corporation/Datasets)
@@ -25,6 +26,9 @@ Everyone should compulsory follow the below instruction in order to get the atte
 5. Required attendance minimum **120 minutes out of 150 minutes** session
 
 #### Attendance sheet reference purpose only(make sure to follow above instructions to get present) → [[clickHere]](https://docs.google.com/spreadsheets/d/1wyb_w_JPJlx1djBOVy1iq_G2f9hSXoyef8PXvF6L-RI/edit?usp=sharing)
+
+#### Your details printed on Certificates verify once → [[clickHere]](https://docs.google.com/spreadsheets/d/1bd90XIFqBRBlomOKDKSOp9LdEVHrQo5p-N0rsHDt9AA/edit?usp=sharing)
+
 
 <!-----
 ******************************
