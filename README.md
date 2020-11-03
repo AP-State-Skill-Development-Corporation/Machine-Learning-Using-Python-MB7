@@ -128,3 +128,11 @@ Discussed Concepts
 
 * [Notebook](Day-7/07_Day7_02Nov2020.ipynb)
 * [Recorded Video](https://transcripts.gotomeeting.com/#/s/010a2ced321922296d53f9928a629fc12287d9c1b5d94450a03011e38be6fef4)
+
+### Day8 Unsupervised Learning (03/Nov/2020)
+
+Discussed Concepts
+1. K-Means Algorithm
+
+* [Notebook](Day-8/08_Day8_03Nov2020.ipynb)
+* [Recorded Video pending]()
