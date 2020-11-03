@@ -135,4 +135,4 @@ Discussed Concepts
 1. K-Means Algorithm
 
 * [Notebook](Day-8/08_Day8_03Nov2020.ipynb)
-* [Recorded Video pending]()
+* [Recorded Video](https://transcripts.gotomeeting.com/#/s/46323894e68ca1d2efec43724beb4f044a8da01f6e7ed3dc41470eaa589ed6cc)
