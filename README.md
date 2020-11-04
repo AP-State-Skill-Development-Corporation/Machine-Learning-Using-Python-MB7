@@ -136,3 +136,13 @@ Discussed Concepts
 
 * [Notebook](Day-8/08_Day8_03Nov2020.ipynb)
 * [Recorded Video](https://transcripts.gotomeeting.com/#/s/46323894e68ca1d2efec43724beb4f044a8da01f6e7ed3dc41470eaa589ed6cc)
+
+### Day9 Principal Component Analysis (04/Nov/2020)
+
+Discussed Concepts
+1. Principal Component Analysis
+2. Saving model to pickle file
+
+* [Notebook](Day-9/09_Day9_04Nov2020.ipynb)
+* [Fruits_dataset](https://raw.githubusercontent.com/AP-State-Skill-Development-Corporation/Datasets/master/Classification/fruit_data_with_colours.csv)
+* [Recorded Video](https://transcripts.gotomeeting.com/#/s/c1784be6712447f76d8058484f79eba0ffc71a010ec9273f35137fe3e038dd85)
